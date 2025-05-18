@@ -2,7 +2,7 @@
 # 🧩 Flutter Clean Architecture with BLoC – Full Scaffold Prompt
 
 Use this prompt to generate a **production-ready Flutter app** using **clean architecture**, **BLoC pattern**, **dependency injection**, and modern Flutter best practices.
-
+Start by using flutter create command
 ---
 
 ## ✅ Requirements
